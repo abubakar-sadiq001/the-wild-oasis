@@ -44,8 +44,7 @@ function SignupForm() {
 
       <FormRow
         label="Password (min 8 characters)"
-        errors={errors?.password?.message}
-      >
+        errors={errors?.password?.message}>
         <Input
           type="password"
           id="password"
@@ -62,8 +61,7 @@ function SignupForm() {
 
       <FormRow
         label="Repeat password"
-        errors={errors?.passwordConfirm?.message}
-      >
+        errors={errors?.passwordConfirm?.message}>
         <Input
           type="password"
           id="passwordConfirm"
