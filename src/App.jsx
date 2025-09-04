@@ -9,7 +9,7 @@ import Bookings from "./pages/Bookings";
 import Cabins from "./pages/Cabins";
 import Users from "./pages/Users";
 import Settings from "./pages/Settings";
-import Account from "./pages/account";
+import Account from "./pages/Account";
 import PageNotFound from "./pages/PageNotFound";
 import AppLayOut from "./ui/AppLayOut";
 import Login from "./pages/Login";
